@@ -10,9 +10,8 @@ APPLICATION_TYPE,AFFILIATION,CLASSIFICATION,USE_CASE,ORGANIZATION,STATUS,INCOME_
 EIN and NAME are neither targets nor features, and should be removed from the input data.
 
 Compiling, Training, and Evaluating the Model
-13 neurons, 2 layers, and 2 activation functions did you select for your neural network model
-Were you able to achieve the target model performance?
-What steps did you take to try and increase model performance?
+13 neurons, 2 layers, and 2 activation functions were used for neural network model
+
 
 
 
